@@ -4,6 +4,7 @@
 
 <p>This project is an exercise in searching & filtering students based on names and/or custom tags.</p>
 <p>The student data is being pulled from a local JSON file, but is set up with an Axios service to fetch from an API endpoint. There is currently a placeholder URL in this service function.</p>
+Live Site @ [https://kirkwood616.github.io/fsb/](https://kirkwood616.github.io/fsb/)
 
 #
 
