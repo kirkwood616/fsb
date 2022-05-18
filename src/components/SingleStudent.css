@@ -1,0 +1,105 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit&display=swap");
+
+.SingleStudent {
+  border-bottom: 1px solid #f1f1f1;
+  display: flex;
+  padding: 1rem 1rem 1rem 1.5rem;
+}
+
+.SingleStudent > img {
+  border: 1px solid #d2d2d2;
+  border-radius: 50%;
+  box-shadow: 0 0 10px #d2d2d2;
+  height: 125px;
+  margin-top: 1rem;
+  width: 125px;
+}
+
+.SingleStudent .info-container {
+  margin-left: 2rem;
+  position: relative;
+  width: 100%;
+}
+
+.SingleStudent p {
+  margin: 0 0 0.5rem 1rem;
+  word-wrap: break-word;
+}
+
+.SingleStudent .test-scores {
+  display: block;
+  margin: 1rem 0 0 1rem;
+  transition: all 0.25s ease-in-out;
+}
+
+.hidden {
+  display: hidden;
+  font-size: 0;
+  height: 0px;
+  transition: all 0.2s ease-out;
+}
+
+.SingleStudent .test-scores > p {
+  margin: 0;
+}
+
+.SingleStudent .hidden > p {
+  display: hidden;
+  font-size: 0;
+  opacity: 0;
+  transition: all 0.2s ease-out;
+}
+
+.icon {
+  cursor: pointer;
+  padding: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transform: translateY(-0.25rem);
+}
+
+.icon > button {
+  background: none;
+  border: none;
+  color: gray;
+  cursor: pointer;
+  font-family: "Kanit", sans-serif;
+  font-size: 4rem;
+  line-height: 0.55;
+  padding: 0;
+  text-align: center;
+  width: fit-content;
+}
+
+.icon > button:hover {
+  color: black;
+}
+
+@media only screen and (max-width: 620px) {
+  .SingleStudent {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .SingleStudent .info-container {
+    margin: 0;
+  }
+
+  .SingleStudent .icon {
+    transform: translateY(-7rem);
+  }
+  .SingleStudent > img {
+    height: 100px;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    width: 100px;
+  }
+  .SingleStudent p {
+    margin: 0.5rem 0;
+  }
+  .SingleStudent .test-scores {
+    margin: 0.75rem 0;
+  }
+}

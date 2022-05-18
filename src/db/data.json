@@ -1,0 +1,301 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "firstName": "Daniel",
+      "lastName": "Jenkins",
+      "email": "dan_jenkins@hotmail.com",
+      "city": "Irvine",
+      "company": "eVisions",
+      "grades": ["78", "100", "92", "86", "89", "88", "91", "87"],
+      "pic": "avatar01.png",
+      "skill": "Programming"
+    },
+    {
+      "id": "2",
+      "firstName": "Candace",
+      "lastName": "Bergen",
+      "email": "notmurphybrown@yahoo.com",
+      "city": "Olympia",
+      "company": "Spogonzo",
+      "grades": ["75", "89", "95", "93", "99", "82", "89", "76"],
+      "pic": "avatar02.png",
+      "skill": "Copywriting"
+    },
+    {
+      "id": "3",
+      "firstName": "Anastasia",
+      "lastName": "Romanov",
+      "email": "stasia34@lycos.com",
+      "city": "Moscow",
+      "company": "Spongozo",
+      "grades": ["88", "90", "79", "82", "81", "99", "94", "73"],
+      "pic": "avatar03.png",
+      "skill": "History"
+    },
+    {
+      "id": "4",
+      "firstName": "Henry",
+      "lastName": "Zebrowski",
+      "email": "sidestorieslpotl@gmail.com",
+      "city": "Los Angeles",
+      "company": "LPOTL",
+      "grades": ["88", "93", "92", "81", "95", "98", "77", "94"],
+      "pic": "avatar04.png",
+      "skill": "Public Speaking"
+    },
+    {
+      "id": "5",
+      "firstName": "Ingeborg",
+      "lastName": "Ortner",
+      "email": "iortner@stwm.de",
+      "city": "München",
+      "company": "Hofbräuhaus",
+      "grades": ["88", "90", "79", "82", "81", "99", "94", "73"],
+      "pic": "avatar05.png",
+      "skill": "Child Education"
+    },
+    {
+      "id": "6",
+      "firstName": "William",
+      "lastName": "Elliott",
+      "email": "bill@awesomebill.com",
+      "city": "Dawsonville",
+      "company": "Retired",
+      "grades": ["97", "92", "72", "99", "92", "92", "79", "96"],
+      "pic": "avatar04.png",
+      "skill": "Racing"
+    },
+    {
+      "id": "7",
+      "firstName": "Ivan",
+      "lastName": "Goldberg",
+      "email": "ivan@psycom.net",
+      "city": "New York",
+      "company": "PsyCom",
+      "grades": ["74", "95", "75", "95", "85", "97", "88", "85"],
+      "pic": "avatar06.png",
+      "skill": "Psychology"
+    },
+    {
+      "id": "8",
+      "firstName": "Khanh",
+      "lastName": "Nguyen",
+      "email": "khanh_nguyen@gmail.com",
+      "city": "De Nang",
+      "company": "Central Education",
+      "grades": ["80", "100", "97", "78", "99", "99", "76", "85"],
+      "pic": "avatar07.png",
+      "skill": "History"
+    },
+    {
+      "id": "9",
+      "firstName": "Victor",
+      "lastName": "Crowley",
+      "email": "victorcrowley@outlook.com",
+      "city": "New Orleans",
+      "company": "Party City",
+      "grades": ["70", "100", "75", "96", "83", "90", "94", "92"],
+      "pic": "avatar08.png",
+      "skill": "Physical Education"
+    },
+    {
+      "id": "10",
+      "firstName": "Gustavo",
+      "lastName": "Fring",
+      "email": "gusfring@eatlospolloshermanos.com",
+      "city": "Albuquerque",
+      "company": "Los Pollos Hermanos",
+      "grades": ["70", "99", "81", "83", "78", "95", "81", "76"],
+      "pic": "avatar09.png",
+      "skill": "Management"
+    },
+    {
+      "id": "11",
+      "firstName": "Bertram",
+      "lastName": "Gummer",
+      "email": "burtgummer1776@hotmail.com",
+      "city": "Perfection",
+      "company": "Burt Gummer's Survival School",
+      "grades": ["98", "93", "78", "87", "99", "89", "97", "81"],
+      "pic": "avatar06.png",
+      "skill": "Survivalism"
+    },
+    {
+      "id": "12",
+      "firstName": "Margarethe",
+      "lastName": "Ziegler",
+      "email": "margziegler@web.de",
+      "city": "Berlin",
+      "company": "Planetly",
+      "grades": ["83", "97", "70", "96", "75", "98", "90", "71"],
+      "pic": "avatar10.png",
+      "skill": "Trivia"
+    },
+    {
+      "id": "13",
+      "firstName": "Dinesh",
+      "lastName": "Chugtai",
+      "email": "dinesh@piedpiper.com",
+      "city": "Palo Alto",
+      "company": "Pied Piper",
+      "grades": ["87", "73", "85", "98", "73", "95", "75", "97"],
+      "pic": "avatar03.png",
+      "skill": "Java"
+    },
+    {
+      "id": "14",
+      "firstName": "Anita",
+      "lastName": "Borg",
+      "email": "anita@anitab.org",
+      "city": "Sonoma",
+      "company": "IWT",
+      "grades": ["90", "73", "88", "95", "71", "100", "80", "86"],
+      "pic": "avatar11.png",
+      "skill": "Computer Science"
+    },
+    {
+      "id": "15",
+      "firstName": "Roman",
+      "lastName": "Zelenski",
+      "email": "rozelenski777@gmail.com",
+      "city": "Kyiv",
+      "company": "Motor Sich",
+      "grades": ["78", "78", "96", "92", "80", "82", "91", "99"],
+      "pic": "avatar01.png",
+      "skill": "Drawing"
+    },
+    {
+      "id": "16",
+      "firstName": "Rosario",
+      "lastName": "Garcia",
+      "email": "rosariogar1134@aol.com",
+      "city": "Tijuana",
+      "company": "Deloitte",
+      "grades": ["88", "74", "76", "89", "75", "97", "75", "86"],
+      "pic": "avatar06.png",
+      "skill": "Singing"
+    },
+    {
+      "id": "17",
+      "firstName": "Katie",
+      "lastName": "Taylor",
+      "email": "taylorkat86@yahoo.com",
+      "city": "Dublin",
+      "company": "KT Sports Ltd",
+      "grades": ["78", "92", "86", "80", "82", "95", "76", "84"],
+      "pic": "avatar10.png",
+      "skill": "Sports"
+    },
+    {
+      "id": "18",
+      "firstName": "Summer",
+      "lastName": "Smith",
+      "email": "summertimesmith01@cafepress.com",
+      "city": "Seattle",
+      "company": "Needful Things",
+      "grades": ["84", "82", "92", "74", "87", "98", "86", "73"],
+      "pic": "avatar12.png",
+      "skill": "Volleyball"
+    },
+    {
+      "id": "19",
+      "firstName": "Bjorn",
+      "lastName": "Ironside",
+      "email": "bjornrulez@tjohoo.se",
+      "city": "Helsingborg",
+      "company": "Dominant Ventures Inc.",
+      "grades": ["100", "75", "84", "91", "100", "97", "98", "87"],
+      "pic": "avatar13.png",
+      "skill": "Team Building"
+    },
+    {
+      "id": "20",
+      "firstName": "Athena",
+      "lastName": "Barnett",
+      "email": "bathenaz@skyrock.com",
+      "city": "Calgary",
+      "company": "CANA",
+      "grades": ["89", "81", "77", "93", "96", "96", "70", "79"],
+      "pic": "avatar14.png",
+      "skill": "Databases"
+    },
+    {
+      "id": "21",
+      "firstName": "Samson",
+      "lastName": "Garcia",
+      "email": "samsongarcia@fangtech.io",
+      "city": "Grand Rapids",
+      "company": "Rack Ruin",
+      "grades": ["81", "74", "77", "82", "74", "88", "86", "87"],
+      "pic": "avatar12.png",
+      "skill": "Lasers"
+    },
+    {
+      "id": "22",
+      "firstName": "William",
+      "lastName": "Laimbeer",
+      "email": "bill@badboys.net",
+      "city": "Detroit",
+      "company": "Bad Boys LLC",
+      "grades": ["73", "99", "91", "92", "85", "96", "95", "73"],
+      "pic": "avatar15.png",
+      "skill": "Basketball"
+    },
+    {
+      "id": "23",
+      "firstName": "Regina",
+      "lastName": "Serres",
+      "email": "ginaserres@anotherbrokenegg.com",
+      "city": "Paris",
+      "company": "Accenture",
+      "grades": ["100", "83", "76", "71", "93", "95", "73", "88"],
+      "pic": "avatar16.png",
+      "skill": "Business"
+    },
+    {
+      "id": "24",
+      "firstName": "Kamatari",
+      "lastName": "Takahashi",
+      "email": "kamatari.takahashi@nakatomicorp.com",
+      "city": "Tokyo",
+      "company": "Nakatomi Corporation",
+      "grades": ["71", "80", "83", "99", "91", "95", "81", "75"],
+      "pic": "avatar17.png",
+      "skill": "Kanban"
+    },
+    {
+      "id": "25",
+      "firstName": "Yeshayahu",
+      "lastName": "Leibowitz",
+      "email": "yeshowitz@yahoo.com",
+      "city": "Jerusalem",
+      "company": "InnoCan Pharma",
+      "grades": ["97", "71", "89", "85", "85", "87", "92", "75"],
+      "pic": "avatar16.png",
+      "skill": "Chemistry"
+    },
+    {
+      "id": "26",
+      "firstName": "Skeeter",
+      "lastName": "Milquetoaste",
+      "email": "rolltide42069@gmail.com",
+      "city": "Dothan",
+      "company": "AutoZone",
+      "grades": ["45", "28", "54", "0", "75", "13", "48", "90"],
+      "pic": "avatar11.png",
+      "skill": "Dipping"
+    },
+    {
+      "id": "27",
+      "firstName": "Laura",
+      "lastName": "Lee",
+      "email": "lauralee@khurangbin.com",
+      "city": "Houston",
+      "company": "Khurangbin",
+      "grades": ["85", "100", "92", "90", "75", "81", "97", "89"],
+      "pic": "avatar16.png",
+      "skill": "Bass Guitar"
+    }
+  ]
+}
