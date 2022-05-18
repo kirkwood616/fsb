@@ -15,7 +15,7 @@ function ResultsBar({ length, nameSearch, tagSearch }: Props) {
         </>
       );
     } else {
-      return <>All Results</>;
+      return <>All Students</>;
     }
   };
 
