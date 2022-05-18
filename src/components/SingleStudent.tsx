@@ -14,7 +14,7 @@ function SingleStudent({ students, student, setStudents }: Props) {
 
   return (
     <div className="SingleStudent">
-      <img src={`/images/${student.pic}`} alt={`${student.firstName} ${student.lastName}'s Avatar`} />
+      <img src={`/fsb/images/${student.pic}`} alt={`${student.firstName} ${student.lastName}'s Avatar`} />
       <div className="info-container">
         <h1>
           {student.firstName.toUpperCase()} {student.lastName.toUpperCase()}
