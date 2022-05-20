@@ -2,7 +2,7 @@
   background-color: white;
   border-radius: 0.5rem;
   box-shadow: 0px 2px 2px 1px #d2d2d2;
-  height: 75vh;
+  height: 75%;
   margin: auto;
   overflow: auto;
   scrollbar-width: none;
@@ -21,13 +21,14 @@
 
 @media only screen and (max-width: 768px) {
   .StudentsList {
-    height: 90vh;
+    height: 80%;
     width: 90%;
   }
 }
 
 @media only screen and (max-width: 480px) {
   .StudentsList {
-    height: 90vh;
+    height: 85vh;
+    margin: 1rem auto;
   }
 }
