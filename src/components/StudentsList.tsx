@@ -12,14 +12,18 @@ function StudentsList() {
   const [nameSearch, setNameSearch] = useState("");
   const [tagSearch, setTagSearch] = useState("");
 
+  function studentCopy() {
+    let copy: Student[] = JSON.parse(JSON.stringify(data.students));
+    copy.forEach((student: Student) => {
+      student.tags = [];
+      student.average = getAverage(student);
+    });
+    return copy;
+  }
+
   useEffect(() => {
     if (!students.length) {
-      let copy = [...data.students] as Student[];
-      copy.forEach((student) => {
-        student.average = getAverage(student);
-        student.tags = [];
-      });
-      setStudents(copy);
+      setStudents(studentCopy());
     } else {
       return;
     }
